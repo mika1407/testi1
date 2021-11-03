@@ -8,6 +8,11 @@ Tekoäly 3
 
 Käytetään toteutettua nettiyhteyttä.
 
+
 void TulostetaanHeiMaailma() {
 	System.out.println("Hei, maailma!");
+}
+
+void tulostetaanHeiSuomi() {
+ System.out.println("Hei, Suomi!"); 
 }
